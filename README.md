@@ -5,12 +5,23 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 I’m currently learning 
+- 📫 How to reach me: 
+  <br>Instagram - https://www.instagram.com/mikhaelapg/, 
+  <br>LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
+- 💬 Ask me about tech and any tech related stuff
+- 😄 Pronouns: He/His
 -->
+
+### Visitor Count
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+
+### Github Stats:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=tokyonight&show_icons=true&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=tokyonight)](https://github.com/mikhaelAPG/github-readme-stats)
+
+### Connect with me: 
+<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<br>
