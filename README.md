@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Visitor Count
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=GITHUB-USERNAME&label=Profile%20views&color=ce9927&style=flat" alt="GITHUB-USERNAME" /> </p>
+![](https://komarev.com/ghpvc/?username=MikhaelAdrielParatamaGana)
 
 ### Github Stats:
 
@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 
 ### Connect with me: 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<br>
