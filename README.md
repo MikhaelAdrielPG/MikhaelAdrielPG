@@ -1,9 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mikhael 
 
-**MikhaelAdrielPratamaGana/MikhaelAdrielPratamaGana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning 
 - 📫 How to reach me: 
   <br>Instagram - https://www.instagram.com/mikhaelapg/, 
