@@ -1,6 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Mikhael 
 
-<!--
 **MikhaelAdrielPratamaGana/MikhaelAdrielPratamaGana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,7 +10,6 @@ Here are some ideas to get you started:
   <br>LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
 - 💬 Ask me about tech and any tech related stuff
 - 😄 Pronouns: He/His
--->
 
 ### Github Stats:
 
