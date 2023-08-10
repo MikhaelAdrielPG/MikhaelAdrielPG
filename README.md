@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ### Github Stats:
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=mikhaelAPG&theme=tokyonight&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MikhaelAdrielPratamaGana&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikhaelAPG&layout=compact&theme=tokyonight)](https://github.com/mikhaelAPG/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MikhaelAdrielPratamaGana&theme=tokyonight)
 
 ### Connect with me: 
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
