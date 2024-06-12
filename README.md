@@ -2,10 +2,7 @@
 
 I'am a Computer Science graduate with a strong eagerness to learn and a keen enthusiasm for tackling challenges.
 
-- 🌱 I’m currently learning
-
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,nodejs,prisma,nestjs,postgres,mongodb,tailwind,vue,nuxtjs,react,nextjs,py)](https://skillicons.dev)
-  
+- 🌱 I’m currently learning  
 - 📫 How to reach me: 
   <br>Instagram - https://www.instagram.com/mikhaelapg/, 
   <br>LinkedIn - https://www.linkedin.com/in/mikhaeladrielpg/
