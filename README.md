@@ -12,7 +12,7 @@ I'am a Computer Science graduate with a strong eagerness to learn and a keen ent
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 ### Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,python,tensorflow,tailwind,bootstrap,vue,nuxtjs,react,nextjs,nestjs,php,laravel,java,spring,postgres,mongodb,mysql,prisma,nestjs,git,figma,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,express,ts,python,tensorflow,tailwind,bootstrap,vue,nuxtjs,react,nextjs,angular,nestjs,php,laravel,java,spring,postgres,mongodb,mysql,prisma,nestjs,git,figma,docker)](https://skillicons.dev)
 
 ### Github Stats:
 
