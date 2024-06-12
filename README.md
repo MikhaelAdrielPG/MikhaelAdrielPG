@@ -9,6 +9,9 @@ I'am a Computer Science graduate with a strong eagerness to learn and a keen ent
 - 💬 Ask me about tech and any tech related stuff
 - 😄 Pronouns: He/His
 
+### Skills:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,jquery,tailwind,nodejs,vue,nuxtjs,react,nextjs,prisma,postgres,mysql,mongodb,nestjs,php,laravel,python,git&perline=10)](https://skillicons.dev)
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 ### Github Stats:
